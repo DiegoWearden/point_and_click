@@ -1,0 +1,19 @@
+{
+  "name": "babylon-point-click-game",
+  "version": "1.0.0",
+  "description": "A 3D point and click game built with Babylon.js",
+  "main": "game.js",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babylon.js",
+    "3d",
+    "game",
+    "point-and-click"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+
