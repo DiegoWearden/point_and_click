@@ -200,7 +200,7 @@ function startOccasionalFlickers(bulb, material) {
             clearInterval(flickerInterval);
             flickerInterval = null;
         }
-    }, Math.random() * 3000 + 2000);
+    }, Math.random() * 1000 + 500);
 }
 
 function showInteraction(message) {
